@@ -15,6 +15,6 @@ Saya membuat program menggunakan 4 bahasa yaitu C++, Java, Python dan PHP. Saya 
 3. User melihat hasil dari semua masukan yang telah diisi dalam bentuk tabel
 
 ## Dokumentasi
-![Screenshot (1161)](https://github.com/shidiqas/LP2DPBO2024C2/assets/118581965/72129517-91b0-4676-9d89-da5540e8dfa3)
 ![Screenshot (1160)](https://github.com/shidiqas/LP2DPBO2024C2/assets/118581965/f056b23e-5324-4fb7-afa3-52e07eaa0823)
+![Screenshot (1161)](https://github.com/shidiqas/LP2DPBO2024C2/assets/118581965/72129517-91b0-4676-9d89-da5540e8dfa3)
 
